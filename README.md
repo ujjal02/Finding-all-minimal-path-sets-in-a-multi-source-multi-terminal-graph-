@@ -1,1 +1,1 @@
-# Finding-all-minimal-path-sets-in-a-multi-source-multi-terminal graph
+# Finding all minimal path sets of a graph having multi-source and multi-terminal
