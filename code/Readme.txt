@@ -1,1 +1,1 @@
-The entier code is written in pyhton3
+The entier code is written in python 3
